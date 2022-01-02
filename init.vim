@@ -10,7 +10,7 @@ Plug 'hrsh7th/cmp-path'
 Plug 'hrsh7th/cmp-cmdline'
 Plug 'hrsh7th/nvim-cmp'
 
-" themes and lines
+" lol themes and lines
 Plug 'nanotech/jellybeans.vim'
 
 Plug 'vim-airline/vim-airline'
